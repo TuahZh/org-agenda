@@ -1,0 +1,304 @@
+* Work in Chile                                                                 :Chilean:Work:Code:Concepción:
+  - plan dayly "file:./plan.org"
+  - [[file:journal.org][Journal]]
+** DONE Run FLASH code on Kultrun
+   CLOSED: [2020-10-30 Fri 19:32]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-10-30 Fri 19:32]
+   :END:
+   - The HDF5 seems to be wrong
+     - try local directories as what has been done in other servers
+** TODO Update FLASH to 4.6 seems not working (check email from jonathan)
+** TODO Finish RS paper II
+   DEADLINE: <2020-11-08 Sun>
+   - Try my best
+** Find some conferences to attend with *new paper*
+** TODO Write up G1.9
+** Magnetic field coupled with thermal conduction
+   - a paper on this from or,
+** TODO Redo the MM SNR simulation with 11 elements
+   :LOGBOOK:
+   - State "PROJECT"    from "DONE"       [2020-10-30 Fri 19:52]
+   - State "DONE"       from ""           [2020-10-30 Fri 19:50]
+   :END:
+*** TODO Analysing the spectra
+*** DONE Test pshock model
+    CLOSED: [2020-11-06 Fri 16:41]
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2020-11-06 Fri 16:41]
+    :END:
+** DONE Solver try no limit on time step
+   CLOSED: [2020-11-09 Mon 16:03]
+   :PROPERTIES:
+   :ORDERED:  t
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2020-11-09 Mon 16:03]
+   CLOCK: [2020-11-09 Mon 13:12]--[2020-11-09 Mon 16:02] =>  2:50
+   CLOCK: [2020-11-07 Sat 20:25]--[2020-11-08 Sun 01:19] =>  4:54
+   CLOCK: [2020-11-06 Fri 16:55]--[2020-11-06 Fri 17:31] =>  0:36
+   :END:
+   Several parts change the time step
+   comments and leave the h_abs to be the largest one in the python run
+   Always loop because the non convergence
+   Disable convergence check :
+    convergence = True
+    step_accept = True
+    max_step is the dt of each step; should be fine
+   The server is down at [2020-11-08 Sun 01:31], regreting not work earlier
+   What is n_equal_steps?
+   *Result: 0.8s*
+** DONE Spectrum test vpshock (respond Randall)
+   CLOSED: [2020-11-06 Fri 13:30] DEADLINE: <2020-11-01 Sun>
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-11-06 Fri 13:30]
+   :END:
+*** work on spectra <2020-10-30 Fri 21:30>
+    :LOGBOOK:
+    CLOCK: [2020-11-04 Wed 09:23]--[2020-11-06 Fri 13:30] => 52:07
+    CLOCK: [2020-11-03 Tue 19:19]--[2020-11-04 Wed 09:23] => 14:04
+    CLOCK: [2020-11-03 Tue 03:56]--[2020-11-03 Tue 16:42] => 12:46
+    CLOCK: [2020-11-03 Tue 01:24]--[2020-11-03 Tue 03:26] =>  2:02
+    CLOCK: [2020-11-02 Mon 00:32]--[2020-11-02 Mon 15:10] => 14:38
+    CLOCK: [2020-10-31 Sat 01:39]--[2020-10-31 Sat 17:32] => 15:53
+    :END:
+** Read papers
+   :LOGBOOK:
+   CLOCK: [2020-11-06 Fri 17:36]--[2020-11-06 Fri 18:04] =>  0:28
+   :END:
+** NEXT Simulation of GC
+   :LOGBOOK:
+   CLOCK: [2020-11-09 Mon 16:15]--[2020-11-10 Tue 15:31] => 23:16
+   :END:
+   - equilibrium problem seems not resolved
+   - smoothed clouds in NEI simulations
+   - So many things to do
+   - so many papers not read
+   - chemistry under shock
+   - How about a Sedov with a plain density gradient
+   - Some strange points
+   - log:
+ The massfraction is wrong
+   9.9999999999999995E-021   9.9999999999999995E-021  0.99920077109919991        9.9999999999999995E-021   7.9922886810928197E-004   9.9999999999999995E-021   6.4879511529876944E-016   3.2690230067987935E-011   9.9999999999999995E-021
+   9.9999999999999995E-021   5.3956142864919341E-007   9.9999999999999995E-021   3.3006875471458468        8250.5331730646139        9.9999999999999995E-021   9.9999999999999995E-021   9.9999999999999995E-021   2.6801498355247193E-012
+ H2:   0.99920077109919991
+ H2 numden:    2.4210715614668072E-024
+    - log 2:
+ Temp:   163.52918467709907
+ The massfraction is wrong
+   9.9999999999999995E-021   1.2598713587394789E-018  0.73740362334562948        9.9999999999999995E-021  0.26259637665437058        9.9999999999999995E-021   9.9999999999999995E-021   9.9999999999999995E-021   9.9999999999999995E-021
+   8.7661926243437889E-020   9.9999999999999995E-021   1.1957084765257261E-016   6.2324935375308552        34.992452084049575        9.9999999999999995E-021   9.9999999999999995E-021   7.7661926243434174E-020   1.8619422602557560E-033
+ H2:   0.73740362334562948
+ H2 numden:    4.2127702161818248E-022
+*** Check the shock
+*** clouds clash
+*** radiation
+*** CR
+*** shock chemistry
+    :PROPERTIES:
+    :ORDERED:  t
+    :END:
+*** The Krome error:
+  *might caused by the large time span*
+  Changes: sub_loops recursive subroutine to makesure every step is positive
+*** The abundances of metal elements: (Wilson+ 1994)
+| Elements |  Solar | Orion A        |
+| C/H      | 3.6e-4 | 3.4 to 2.1 e-4 |
+| O/H      | 8.5e-4 | 4.0 to 3.8 e-4 |
+| N/H      | 1.1e-4 | 6.8 to 8.7e-5  |
+| Ne/H     | 1.2e-4 | 8to 40e-5      |
+| Si/H     | 3.6e-4 | 3.0e-6         |
+| S/H      | 1.8e-5 | 8.5 to 13.3e-6 |
+| Ar/H     | 3.6e-6 | 4.5 to 2.1 e-6 |
+Mass Fraction
+| Elements | fraction |
+| H        |    0.739 |
+| He       |     0.24 |
+| O        |  1.04e-2 |
+| C        |   4.6e-3 |
+| Si       |  0.65e-3 |
+** Group meeting
+*** Stefano: <2020-11-10 Tue 15:30 +1w>
+[[https://us02web.zoom.us/j/85662651343]]
+[[https://us02web.zoom.us/j/85662651343?pwd=ZEZXR01YZFY0QTErNEErWXpCbjRLQT09]]
+** TODO Solver in Krome
+* Life in Chile                                                                 :Chilean:Life:Concepción:
+** CANCELLED Water plants
+   CLOSED: [2020-11-06 Fri 15:54] SCHEDULED: <2019-12-11 Wed +0w>
+   :PROPERTIES:
+   :LAST_REPEAT: [2020-11-06 Fri 15:50]
+   :END:
+   :LOGBOOK:
+   - State "CANCELLED"  from "TODO"       [2020-11-06 Fri 15:54] \\
+     forever cancelled with prefix '-1'
+   - State "CANCELLED"  from "NEXT"       [2020-11-06 Fri 15:44] \\
+     why not cancelled
+   - State "DONE"       from "NEXT"       [2020-11-06 Fri 15:42]
+   - State "CANCELLED"  from "NEXT"       [2020-11-06 Fri 15:40] \\
+     no plant alive
+   - State "CANCELLED"  from              [2020-11-06 Fri 15:39] \\
+     No plant alive
+   :END:
+** CANCELLED Wash cloths
+   CLOSED: [2020-11-06 Fri 15:39] SCHEDULED: <2019-11-01 Fri 18:00>
+   :LOGBOOK:
+   - State "CANCELLED"  from              [2020-11-06 Fri 15:39] \\
+     no use after the pandemic
+   :END:
+** CANCELLED Buy ink should arrive
+   CLOSED: [2020-11-06 Fri 15:38] SCHEDULED: <2019-11-12 Tue>
+   :LOGBOOK:
+   - State "CANCELLED"  from              [2020-11-06 Fri 15:38] \\
+     already much early
+   :END:
+** NEXT Pay rent
+   SCHEDULED: <2020-12-04 Fri +1m>
+   :PROPERTIES:
+   :LAST_REPEAT: [2020-11-06 Fri 15:57]
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from              [2020-11-06 Fri 15:57]
+   :END:
+* Others
+** Get used to org and make applications
+Here is a bold *face*, italic /face/, underlined _face_, verbatim =face=, code ~face~, stricke-through +face+.
+- orgzly
+** write wechat public account
+** make a python crawling program for ads or arxiv
+   :LOGBOOK:
+   CLOCK: [2019-09-30 Mon 23:09]--[2019-09-30 Mon 23:13] =>  0:04
+   :END:
+*** DONE write a paper class
+    CLOSED: [2019-10-04 Fri 20:00]
+    :LOGBOOK:
+    - State "DONE"       from ""           [2019-10-04 Fri 20:00]
+    :END:
+*** Daily reading with key words
+    :LOGBOOK:
+    CLOCK: [2019-10-04 Fri 20:07]--[2019-10-05 Sat 01:15] =>  5:08
+    :END:
+**** DONE delete a key word
+     CLOSED: [2019-10-05 Sat 12:25]
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2019-10-05 Sat 12:25]
+     :END:
+**** DONE show the papers
+     CLOSED: [2019-10-05 Sat 12:25]
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2019-10-05 Sat 12:25]
+     CLOCK: [2019-10-05 Sat 10:41]--[2019-10-05 Sat 11:15] =>  0:34
+     :END:
+**** DONE Sorting
+     CLOSED: [2019-10-05 Sat 12:25]
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2019-10-05 Sat 12:25]
+     CLOCK: [2019-10-05 Sat 11:35]--[2019-10-05 Sat 12:25] =>  0:50
+     :END:
+**** DONE exclude a key word
+     CLOSED: [2019-10-05 Sat 13:11]
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2019-10-05 Sat 13:11]
+     CLOCK: [2019-10-05 Sat 12:25]--[2019-10-05 Sat 13:11] =>  0:46
+     :END:
+**** DONE Filtered with subjects
+     CLOSED: [2019-10-05 Sat 14:21]
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2019-10-05 Sat 14:21]
+     CLOCK: [2019-10-05 Sat 13:16]--[2019-10-05 Sat 14:21] =>  1:05
+     :END:
+**** CANCELLED Group the key words
+     CLOSED: [2019-10-05 Sat 15:14]
+     :LOGBOOK:
+     - State "CANCELLED"  from "WAITING"    [2019-10-05 Sat 15:14] \\
+       not currently
+     - State "WAITING"    from "TODO"       [2019-10-05 Sat 14:22] \\
+       maybe not neccessary
+     :END:
+**** NEXT Iterative it
+**** DONE Write a summary in ListPaper
+     CLOSED: [2019-10-05 Sat 15:14]
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2019-10-05 Sat 15:14]
+     CLOCK: [2019-10-05 Sat 14:47]--[2019-10-05 Sat 15:14] =>  0:27
+     :END:
+**** DONE Exclude Filter subjects
+     CLOSED: [2019-10-05 Sat 17:00]
+     :LOGBOOK:
+     - State "DONE"       from ""           [2019-10-05 Sat 17:00]
+     :END:
+*** CANCELLED Deep Search in ADS
+    CLOSED: [2020-11-06 Fri 16:03]
+    :LOGBOOK:
+    - State "CANCELLED"  from "TODO"       [2020-11-06 Fri 16:03] \\
+      no time for this
+    CLOCK: [2019-10-05 Sat 20:47]--[2019-10-06 Sun 19:30] => 22:43
+    CLOCK: [2019-10-05 Sat 19:38]--[2019-10-05 Sat 20:28] =>  0:50
+    CLOCK: [2019-10-05 Sat 17:20]--[2019-10-05 Sat 17:52] =>  0:32
+    :END:
+**** DONE Change ListPaper or Ext it
+     CLOSED: [2019-10-06 Sun 23:29]
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2019-10-06 Sun 23:29]
+     CLOCK: [2019-10-06 Sun 21:22]--[2019-10-06 Sun 23:29] =>  2:07
+     :END:
+**** HOLD Deep
+     :LOGBOOK:
+     CLOCK: [2019-10-07 Mon 13:19]--[2019-10-07 Mon 20:03] =>  6:44
+     CLOCK: [2019-10-07 Mon 00:34]--[2019-10-07 Mon 13:13] => 12:39
+     :END:
+     - check duplicate
+     - debugging
+*** WAITING Export citation forms
+    :LOGBOOK:
+    - State "WAITING"    from "HOLD"       [2019-10-07 Mon 00:34] \\
+      Change citation index
+    CLOCK: [2019-10-06 Sun 23:29]--[2019-10-07 Mon 00:33] =>  1:04
+    CLOCK: [2019-10-06 Sun 19:49]--[2019-10-06 Sun 21:21] =>  1:32
+    :END:
+** Long waisted at home because of the covid
+** orgnize papers with org model
+*** a python script to log the papers
+A python script seems better for me
+quotes:
+“Seize the day, then let it go.”
+― Marty Rubin
+    :LOGBOOK:
+    CLOCK: [2020-11-08 Sun 01:43]--[2020-11-09 Mon 13:12] => 35:29
+    CLOCK: [2020-11-06 Fri 18:05]--[2020-11-07 Sat 20:03] => 25:58
+    :END:
+    enable link
+    What should be included:
+    - arxiv id
+    - title
+    - authors
+    - abstract
+    - links
+    - bib
+    - read
+    - notes
+    - keywords or tags
+    - most important figure
+    - number
+    - year
+    - journal and page
+    - arxiv date
+    - link to pdf
+**** Second day:
+     :LOGBOOK:
+     CLOCK: [2020-11-10 Tue 16:48]--[2020-11-11 Wed 03:42] => 10:54
+     :END:
+     - key words
+     - fielters
+     - previous
+     - maybe icon
+     - figures in Readme
+     - delete quit button
+     - a text for quit
+     - previous page
+     - Still Waiting: *head steups and next setups*
+     - *Bug* forgot to dump hist after org in org
+**** Third day:
+     :LOGBOOK:
+     CLOCK: [2020-11-11 Wed 19:46]--[2020-11-13 Fri 23:35] => 51:49
+     :END:
+     - Debug some

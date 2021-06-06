@@ -1,0 +1,47 @@
+#+STARTUP:inlineimages
+* 2019.09
+** [2019-09-19 Thu 00:49]
+1. Deal with orgmode
+2. Deal with autohotkey for surface
+3. Reply emails from Stefano
+** [2019-09-19 Thu 14:52] What is fucking life!
+- *My father is beaten*
+- consulting online; what is the fucking life! <2019-09-19 Thu 16:34>
+** Crab in wine [2019-09-20 Fri]
+   :LOGBOOK:
+   CLOCK: [2019-09-20 Fri 12:03]--[2019-09-20 Fri 12:22] =>  0:19
+   :END:
+   - bought and applied a new skin for surface
+   - My father's thing has not been properly dealt with *it really sucks!*
+** DONE Ask for CCTV evidence [2019-09-21 Sat]
+   CLOSED: [2019-09-21 Sat 21:56]
+   :LOGBOOK:
+   - State "DONE"       from ""           [2019-09-21 Sat 21:56]
+   :END:
+   - Uploaded all the documents with some of them not finished
+** I am not weak [2019-09-22 Sun]
+   - But the criticize from Daniel hurts
+** No I am weak [2019-09-29 Sun]
+*** write a spider for, arxiv
+** *Read arxiv papers (at least two) per day*
+*** find something on dweb
+* Intel Advisor in Mac: [2019-11-13 Wed]
+- source /pathtoadvisor/advixe-vars.sh
+- Error: dyld: Library not loaded: @rpath/libadvixe_wx_helpers_core_1.37.dylib
+  Referenced from: /Applications/Intel Advisor 2019.app/Contents/MacOS/advixe-gui
+  Reason: no suitable image found.  Did find:
+        /Applications/Intel Advisor 2019.app/Contents/MacOS/../Frameworks/libadvixe_wx_helpers_core_1.37.dylib: code signature in (/Applications/Intel Advisor 2019.app/Contents/MacOS/../Frameworks/libadvixe_wx_helpers_core_1.37.dylib) not valid for use in process using Library Validation: mapped file has no Team ID and is not a platform binary (signed with custom identity or adhoc?)
+[1]    98737 abort      advixe-gui
+- sudo codesign -f -s - --deep Intel\ Advisor\ 2019.app
+  fixed
+- export LC_CTYPE="C"
+* 2020.10.31
+  1. jupyter
+  2. xspec:
+    [[file:~/Documents/academic/FLASH/spectrum/test_pshock/log.org]]
+    It seems the x axis between simulation and the fk5 is different from what I think.
+    *Very Very important: considering the great circle or the latitude circle*
+* 2020.11.02
+Read papers: 2010.15412
+** continue the spectra
+try to extract the data

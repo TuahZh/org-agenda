@@ -1,0 +1,93 @@
+* Keep planning please
+** RS paper II (respond Daniel)
+** DONE read and prepare paper for GM
+   CLOSED: [2020-11-06 Fri 15:49] DEADLINE: <2020-11-02 Mon>
+   :LOGBOOK:
+   - State "DONE"       from              [2020-11-06 Fri 15:49]
+   :END:
+** DONE Time arrange:
+   CLOSED: [2021-01-18 Mon 18:27]
+   :LOGBOOK:
+   - State "DONE"       from              [2021-01-18 Mon 18:27]
+   :END:
+*** Continue work on orgs <2020-10-30 Fri 20:20>
+*** Dance or ring fit <2020-10-30 Fri 21:00>
+*** Try to finish it, if not, continue <2020-10-30 Fri 23:00>
+*** Redo the plan <2020-10-31 Sat 00:00>
+**** I really want to play games.
+*** Read paper for GM <2020-11-02 Mon 01:00>
+    I cannot wake up early enough
+So stay up
+*** Test the solver <2020-11-06 Fri 14:00>
+*** TODO simulation with smoothed clouds <2020-11-06 Fri 16:00>
+**** Simulation with a cloud wall
+*** TODO Try to get a report of chemical evolution <2020-11-06 Fri 18:00>
+*** NEXT Debug the krome package
+    :LOGBOOK:
+    CLOCK: [2020-11-16 Mon 17:21]--[2020-11-19 Thu 02:13] => 56:52
+    :END:
+**** Krome_all failed because of negative numbers
+**** check them step by step
+** Time arrange:
+*** RS paper II <2021-01-19 Tue 11:00>--<2021-01-19 Tue 11:20>
+**** ellipse -- inclination <2021-01-19 Tue 12:30>
+**** new rspp method <2021-01-19 Tue 15:26>
+*** CO network test <2021-01-19 Tue 15:40>
+    - equilibrium not converge
+    - seems to gather in HCO
+    - O is left
+    - more C --> O is not left; HCO dominates
+*** FLASH simulation with CO network <2021-01-19 Tue 17:00>
+    - column density ratio CO to H2: 3.E-6
+**** initialize CO with CO to H2 ratio; H2 to equilibrium value (constant) <2021-01-19 Tue 17:35>
+**** CO to H2 mass ratio 4.2e-5, CO mass frac: 3.066e-5; O and C might deduct <2021-01-19 Tue 18:06>
+*** Arxiv papers <2021-01-19 Tue 14:28>
+** Time grid
+*** KROME solver <2021-01-20 Wed 12:03>
+    - test another setting
+*** Group meeting <2021-01-20 Wed 14:00>--<2021-01-20 Wed 14:30>
+*** Solver modularization -- solver_init with new BDF_init <2021-01-20 Wed 16:05>
+**** DONE Solver modules: variables defined repeat <2021-01-20 Wed 16:50>
+     CLOSED: [2021-01-20 Wed 17:25]
+     :LOGBOOK:
+     - State "DONE"       from              [2021-01-20 Wed 17:25]
+     :END:
+*** Solver check transpose subroutines <2021-01-20 Wed 17:26>
+**** matmul(transpose()) change to column-wise loop <2021-01-20 Wed 17:35>
+** plan
+*** Solver continue <2021-01-21 Thu 14:59>
+** plan
+*** Solver BDF in advisor <2021-01-22 Fri 14:33>
+*** Sparse use in the solver <2021-01-22 Fri 14:55>
+*** dgetrs is slow <2021-01-22 Fri 15:41>
+** plan
+*** modify Wed presentation <2021-01-25 Mon 17:44>
+*** papers
+** plan
+*** Solver initialization opt <2021-01-26 Tue 11:24> -- <2021-01-26 Tue 11:33>
+*** molecular cloud life time <2021-01-26 Tue 14:27>
+**** initial condition: TMC-1 chemistry composition
+**** molecular abundances are different between GC and disk
+*** observation paper first <2021-01-26 Tue 15:15>
+** plan
+*** arxiv papers <2021-01-27 Wed 15:10>
+*** Solver <2021-01-27 Wed 15:33>
+** plan
+*** arxiv papers <2021-01-28 Thu 16:53>
+** plan
+*** arxiv papers <2021-02-01 Mon 15:21>
+*** solver <2021-02-01 Mon 16:03>
+** plan
+*** solver <2021-02-02 Tue 13:40>
+*** KLU is prepared <2021-02-02 Tue 14:15>
+*** Only changing dgetrs to klu cannot accelerate the code <2021-02-02 Tue 17:41>
+    - 15''-> 1m12
+** plan
+*** jac function to sparse <2021-02-03 Wed 14:23>
+**** try to use jac with dense to sparse
+** plan
+*** I should check how DLSODES does the calculations <2021-02-15 Mon 15:12>
+** plan
+*** finish the cv for ping's project without projects names <2021-02-16 Tue 17:11>
+** plan
+*** continue the solver DLSODES <2021-02-17 Wed 12:31>
