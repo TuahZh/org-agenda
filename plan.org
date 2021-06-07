@@ -1,4 +1,5 @@
 * Keep planning please
+** New Chemistry network with HCN and HNC
 ** RS paper II (respond Daniel)
 ** DONE read and prepare paper for GM
    CLOSED: [2020-11-06 Fri 15:49] DEADLINE: <2020-11-02 Mon>
