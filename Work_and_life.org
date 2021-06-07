@@ -122,6 +122,9 @@ Mass Fraction
 [[https://us02web.zoom.us/j/85662651343]]
 [[https://us02web.zoom.us/j/85662651343?pwd=ZEZXR01YZFY0QTErNEErWXpCbjRLQT09]]
 ** TODO Solver in Krome
+** Network with N-bearing species
+*** papers:
+aa22389-13.pdf, 1001.3930.pdf, 1804.01354.pdf
 * Life in Chile                                                                 :Chilean:Life:Concepción:
 ** CANCELLED Water plants
    CLOSED: [2020-11-06 Fri 15:54] SCHEDULED: <2019-12-11 Wed +0w>
