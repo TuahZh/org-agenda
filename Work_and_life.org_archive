@@ -1,0 +1,656 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /Users/gaoyuan/Documents/OneDrive/org/Work.org
+
+
+* Archive
+
+** Emails from Stefano
+   :PROPERTIES:
+   :ARCHIVE_TIME: 2019-09-20 Fri 16:26
+   :ARCHIVE_FILE: ~/Documents/OneDrive/org/Work.org
+   :ARCHIVE_OLPATH: Chilean work in China/Application to Fondecyt
+   :ARCHIVE_CATEGORY: Work
+   :ARCHIVE_ITAGS: Chilean Work Weifang
+   :END:
+
+** DONE Send the proposal to Daniel
+   CLOSED: [2019-09-22 Sun 01:12] DEADLINE: <2019-09-22 Sun 00:00>
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-09-22 Sun 01:12]
+   :END:
+   :PROPERTIES:
+   :ARCHIVE_TIME: 2019-09-22 Sun 16:14
+   :ARCHIVE_FILE: ~/Documents/OneDrive/org/Work.org
+   :ARCHIVE_OLPATH: Chilean work in China/Application to Fondecyt
+   :ARCHIVE_CATEGORY: Work
+   :ARCHIVE_TODO: DONE
+   :ARCHIVE_ITAGS: Chilean Work Weifang
+   :END:
+
+** DONE Reply Dominik & finish all other domuments
+   CLOSED: [2019-09-21 Sat 21:57]
+   :LOGBOOK:
+   - State "DONE"       from ""           [2019-09-21 Sat 21:57]
+   CLOCK: [2019-09-21 Sat 20:15]--[2019-09-21 Sat 21:31] =>  1:16
+   CLOCK: [2019-09-21 Sat 16:37]--[2019-09-21 Sat 18:51] =>  2:14
+   CLOCK: [2019-09-21 Sat 13:53]--[2019-09-21 Sat 14:05] =>  0:12
+   CLOCK: [2019-09-21 Sat 13:21]--[2019-09-21 Sat 13:39] =>  0:18
+   CLOCK: [2019-09-21 Sat 12:30]--[2019-09-21 Sat 12:35] =>  0:05
+   CLOCK: [2019-09-21 Sat 11:32]--[2019-09-21 Sat 11:40] =>  0:08
+   CLOCK: [2019-09-21 Sat 10:09]--[2019-09-21 Sat 11:06] =>  0:57
+   :END:
+   :PROPERTIES:
+   :ARCHIVE_TIME: 2019-09-22 Sun 16:15
+   :ARCHIVE_FILE: ~/Documents/OneDrive/org/Work.org
+   :ARCHIVE_OLPATH: Chilean work in China/Application to Fondecyt
+   :ARCHIVE_CATEGORY: Work
+   :ARCHIVE_TODO: DONE
+   :ARCHIVE_ITAGS: Chilean Work Weifang
+   :END:
+   - Abstract
+
+**  Chilean work in China                                                       :Chilean:Work:Weifang:ARCHIVE:
+   :PROPERTIES:
+   :ARCHIVE_TIME: 2020-10-30 Fri 19:31
+   :ARCHIVE_FILE: ~/Documents/OneDrive/org/Work.org
+   :ARCHIVE_CATEGORY: Work
+   :END:
+*** DONE [#B] Application to visa
+    CLOSED: [2019-11-01 Fri 12:09] SCHEDULED: <2019-09-19 Thu>
+    :LOGBOOK:
+    - State "DONE"       from "WAITING"    [2019-11-01 Fri 12:09]
+    - State "WAITING"    from ""           [2019-09-18 Wed 17:31] \\
+      Find a way to track the application
+    :END:
+    - Submitted the application and documents with passpoart on <2019-09-09 Mon>
+    - resubmit the contract on [2019-09-26 Thu]
+*** [#B] G1.9
+*** TODO [#A] RS-model paper
+    DEADLINE: <2019-10-11 Fri>
+    :LOGBOOK:
+    CLOCK: [2019-10-08 Tue 21:58]--[2019-10-09 Wed 16:41] => 18:43
+    :END:
+**** DONE Connect to xray/alma server
+     CLOSED: [2019-10-07 Mon 20:03]
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2019-10-07 Mon 20:03]
+     CLOCK: [2019-09-30 Mon 23:14]--[2019-09-30 Mon 23:53] =>  0:39
+     :END:
+     - success on xray server now.
+     - alma server waiting
+*** [#C] SNR simulation
+*** DONE [#A] Application to Fondecyt                                           :ARCHIVE:
+    CLOSED: [2019-09-25 Wed 21:04] DEADLINE: <2019-09-24 Tue>
+    :LOGBOOK:
+    - State "DONE"       from "PROJECT"    [2019-09-25 Wed 21:04]
+    CLOCK: [2019-09-20 Fri 16:03]--[2019-09-20 Fri 16:24] =>  0:21
+    CLOCK: [2019-09-20 Fri 15:17]--[2019-09-20 Fri 16:02] =>  0:45
+    CLOCK: [2019-09-20 Fri 12:52]--[2019-09-20 Fri 13:17] =>  0:25
+    CLOCK: [2019-09-20 Fri 12:31]--[2019-09-20 Fri 12:34] =>  0:03
+    CLOCK: [2019-09-20 Fri 11:46]--[2019-09-20 Fri 12:03] =>  0:17
+    CLOCK: [2019-09-19 Thu 15:24]--[2019-09-19 Thu 16:22] =>  0:58
+    :END:
+    Begin to work at [2019-09-18 Wed 18:30]
+    - Mofify the background part
+      GC or CMZ
+      + importance
+      + observed problems
+      + complexity
+      + lead to the following discussions
+    - Add figures from Bu Defu
+**** Emails from Stefano & pdf
+     :LOGBOOK:
+     CLOCK: [2019-09-21 Sat 22:46]--[2019-09-21 Sat 23:42] =>  0:56
+     CLOCK: [2019-09-21 Sat 22:21]--[2019-09-21 Sat 22:24] =>  0:03
+     CLOCK: [2019-09-21 Sat 21:58]--[2019-09-21 Sat 22:04] =>  0:06
+     CLOCK: [2019-09-21 Sat 12:35]--[2019-09-21 Sat 13:11] =>  0:36
+     CLOCK: [2019-09-20 Fri 19:56]--[2019-09-20 Fri 21:13] =>  1:17
+     CLOCK: [2019-09-20 Fri 16:28]--[2019-09-20 Fri 17:10] =>  0:42
+     :END:
+     - List of comments from email
+       - 0918
+         #+BEGIN_QUOTE
+         In general you don't need to write too much about it, just mention it
+         with some very basic information. You can say that we have expertise in
+         the group and a collaboration with Stefan Reissl who is the developer.
+         As you see in the list of publications there is a proceedings from our
+         group (Zamponi+2019).
+         #+END_QUOTE
+       - 0918_1
+         #+BEGIN_QUOTE
+         I went now carefully throught the proposal. I think that the proposal is
+         well written but the structure needs a bit of work.
+
+         You have description of the different setup disseminated along the
+         proposal together with the background sessions.
+
+         I included my comment in the attached pdf. Let me know if you can read
+         it.
+
+         Hope this can help.
+         #+END_QUOTE
+       - 0918_0
+         #+BEGIN_QUOTE
+         thanks. A quick comment (I'll send it later a more detailed report): it
+         seems to me that there is a lot of background and literature in the
+         proposal but not too much about the details of how we are going to
+         perform the simulations: the setup, the parameter study, the critical
+         tracers, and the comparison with observations. I fear a referee will see
+         that we know a lot about the problem, but he will ask how we plan to do
+         that! I'll try to think on how we can improve this point.
+         #+END_QUOTE
+     - Comments from pdf
+     - *Something still left*
+**** Emails from Dominik
+     :LOGBOOK:
+     CLOCK: [2019-09-22 Sun 00:30]--[2019-09-22 Sun 01:10] =>  0:40
+     CLOCK: [2019-09-20 Fri 22:21]--[2019-09-21 Sat 10:09] => 11:48
+     CLOCK: [2019-09-20 Fri 22:00]--[2019-09-20 Fri 22:10] =>  0:10
+     :END:
+     - list of comments
+       #+BEGIN_QUOTE
+         - The introduction of the shock chemistry in SNRs comes rather abrupt, after discussing before about the galactic center. Before section 1.1, perhaps you can include a few sentences about the supernova source in the Galactic Center already and that we plan to explore it during this project, which will provide a smoother transition.
+
+         - Work in progress: It would be nice to show some snapshots from simulations, to demonstrate the capabilities of the code.
+
+         - Goals: This section is too short from my point of view. We should definite a list with a few different goals, and should describe them in more detail. This could for instance include: 1) Explore the chemistry of supernova remnants in the Galactic Center. 2) Explore the impact of X-ray flares on the Galactic Center. 3) Explore the joint impact of X-ray flares and shock chemistry. 4) Compare effect of X-rays and cosmic rays in high-density gas.
+
+         - Methodology: I would provide further details on the FLASH code (fully parallel; methods to solve the MHD equations and to ensure div B=0). It would also be very useful to present your NEI approach in this section in some greater detail, as this is your own new development. I believe it is a possibility that this technology could be employed in KROME as well, but to simplify the computational discussion, it is a possibility that we just say in the proposal that NEI will be extended towards the molecular regime (and KROME may later turn out to be the practical way to do that).
+
+         - The work plan, as Stefano, mentioned, should include a bullett list for each year to show what will be done.
+
+         Resouces:
+         - The Intel cluster of Kultrun has 416 cores.
+         - Stefano will be the host professor, and should not be mentioned as a collaborator for the project. You can mention me as a collaborator for the project, and Neil Nagar´s group working on black hole accretion in nearby galaxies can be relevant. Tommaso Grassi may also become a relevant collaborator for the project; and potentially Patricia Arévalo from Valparaiso as an expert for X-ray variability. Other people should be removed for now.
+         - I think the First Stars conference is not strongly related to your project, so I would not mention it here. What we are also planning is a large international conference on "Formation and Growth of Supermassive Black Holes", which will be in Pucon (close to Concepción) in December 2020, in the week before the solar eclipse. This will be much more relevant for your project, also including a session on the Galactic Center, and could be mentioned more prominently.
+       #+END_QUOTE
+
+     - 0921
+         #+BEGIN_QUOTE
+
+         1) You need to upload under "Annexes"a scanned version of your PhD certificate, or another certificate stating that you are in posession of it or that you achieved all requirements to obtain the PhD. Please confirm that you have it, and you could then upload it already.
+
+         2) I just went through the online form and made some updates, i.e. selecting publications from yours and Stefano´s CV (which you can also still change if you prefer), and I inserted a suggestion for the budget of the project (which you may also change if you prefer). The only thing to consider is that the amount for your salary is fixed (22.140.000 CLP per year), and you can distribute 4.500.000 CLP on travel, operation costs (like conference fees) and small equipment (laptop, computers).
+
+         I have currently put the money just on travel and a small amount in operation costs, as we currently have enough financial flexibility to buy you a laptop if needed. But if you prefer, this can be changed of course. We also need to add a document with the justification of the requested amounts, where I am attaching one that is consistent with the current budget (you basically have to consider the reference values for travel, which are given here: https://www.conicyt.cl/fondecyt/files/2018/11/Valores-referenciales-CONVOCATORIAS-2019.pdf ).
+
+         3) We should also start filling the section on "Identification" in the online form, which includes the proposal title, your PhD thesis title, the name of your PhD thesis advisor and the name of your Doctoral program.
+
+         4) Once this is done, I would encourage you to upload all documents (if you don´t have the final version yet, you can upload a preliminary one or some other document, just keep track of it). You can then click on "Revision", and this will indicate if there are any problems in the proposal, or if in principle it could be submitted. This test is very important and useful, and I would encourage you to do it already over the weekend. Sometimes there are unexpected problems for instance in the CV, which can be hard to identify and to solve in the last minute, so it is good if we can do it over the weekend.
+
+         Please also recall that the deadline will be on Tuesday, September 24, at 16:00 Chilean time. We could ideally aim to submit already on Monday night, to avoid last-minute problems, or if needed I can try to look at any last issues on Tuesday morning (though I will be teaching from 10 to 12). Monday will be very busy for me, so I may not be able to respond to e-mails, and you should check things with Stefano if needed.
+         #+END_QUOTE
+**** DONE Final modifications from emails and/or anything
+     CLOSED: [2019-09-24 Tue 22:17] DEADLINE: <2019-09-22 Sun 23:59>
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2019-09-24 Tue 22:17]
+     CLOCK: [2019-09-24 Tue 06:34]--[2019-09-24 Tue 07:14] =>  0:40
+     CLOCK: [2019-09-23 Mon 13:59]--[2019-09-23 Mon 16:01] =>  2:02
+     CLOCK: [2019-09-22 Sun 23:19]--[2019-09-22 Sun 23:38] =>  0:19
+     CLOCK: [2019-09-22 Sun 14:39]--[2019-09-22 Sun 16:06] =>  1:27
+     :END:
+***** DONE Dominik email:
+     CLOSED: [2019-09-24 Tue 22:17]
+     :LOGBOOK:
+     - State "DONE"       from ""           [2019-09-24 Tue 22:17]
+     CLOCK: [2019-09-24 Tue 13:43]--[2019-09-24 Tue 15:14] =>  1:31
+     CLOCK: [2019-09-24 Tue 09:05]--[2019-09-24 Tue 12:08] =>  3:03
+     CLOCK: [2019-09-22 Sun 20:16]--[2019-09-22 Sun 22:08] =>  1:52
+     :END:
+- 0922
+#+BEGIN_QUOTE
+attached is an update of your abstract, which also includes Stefano´s suggestions.
+
+I noticed that the abstract mentions radiation transport simulations, which I have now replaced with "approximate radiation transport scheme". I think you still need to describe the radiation transport part in the main proposal.
+
+In section 5 of the main proposal, you could also mention (in one sentence) that our group has experience with post-processing using Polaris based on the Master project of Joaquín Zamponi.
+
+After working on the abstract, I think it is good if we stress more the collaborative nature of the project also in the main text. For this purpose, I would suggest to mention the collaborators for this work not just at the end of the proposal, but a good point could be at the beginning of the work program, in section 4. In this place, you could also say that you plan one visit per year to one of your collaborators (which is consistent with the yearly research visit we included in the budget).
+#+END_QUOTE
+- 0922_0
+#+BEGIN_QUOTE
+I have now also checked the updated draft, and I think it is getting in very good shape.
+
+One thing that could be improved further is to explain which data will be compared with our simulations (as you write on the bottom of page 5 that data are available already). At the end of page 10, you then mention the dust emission map that will be constructed, but I think it is important to bring that earlier, basically also on page 5, and perhaps to include osme more details. If needed, you can then shorten section 7 on "Available resources", as you will provide a separate document on that (in previous proposal rounds, this had to be included in the proposal itself, that´s why it is in some of our templates, and I suppose it is good to mention Kultrun in this place, but other things can be shortened if needed).
+
+On page 7, potentially some more details on how you include the dynamical evolution (initial velocity field?) would be useful. Some of that comes later, but it is good if the reader already gets an idea.
+
+Apart from that, I only have very minor comments as reported below:
+
+page 1:
+- AGN: define
+- FWHM: define
+- result from its interplay -> results from its interplay
+- and are responsible for the unusually -> and leads to the unusually
+- trace a denser gas components -> trace denser gas components
+- which traces the distribution -> which trace the distribution
+- located ~100 pc -> located at ~100 pc
+- chemical concentration in CMZ -> chemical concentration in the CMZ
+- put a comma or semicolon before the Mills et al. reference
+- we focus on the chemistry in CMZ -> we aim to explore the chemistry in the CMZ
+- dynamics of molecular clouds -> dynamics of the molecular clouds
+
+page 3:
+- in which a shock propagating -> in which a shock is propagating
+- SNR shock hit the adjacent MC -> SNR shock hits the adjacent MC
+- the area of CMZ -> the area of the CMZ
+- Five out of them -> Five of them
+- Figure courtesy of Zhang et al. -> Figure from Zhang et al.   (I think you use courtesy only if the figure comes from somebody else, could be misleading)
+- potentially important on the chemistry -> potentially important for the chemistry
+
+page 4:
+- as a background radiation -> as a radiation background
+- chemical status in a larger scale -> chemical conditions on a larger scale
+- happening in CMZ -> happening in the CMZ
+- can also heat the molecular gas up -> can also heat up the molecular gas
+- a radiative cooling happens -> radiative cooling occurs
+- orbits around the Sgr A* -> orbits around Sgr A*
+
+page 5:
+- is another source to the -> is another source for
+- that many represent -> that may represent
+- will also make it possible -> will make it possible
+- temperatures of 30-100 K. This implies -> temperatures of 30-100 K, this implies
+- explain Burgers turbulence (or replace with compressive turbulence or similar)
+- can also be generated before the simulations -> can be included in the initial condition
+- would provide the ionization and chemical evolution information -> would provide the information on ionization and chemical evolution
+- make a combination of all the simulations above -> create a simulation that includes all the physics mentioned above
+- to be compared with -> for comparison with
+- clarify then the part on observations as suggested above
+- impact of magnetic field -> impact of the magnetic field
+- In a large scale -> On a large scale
+
+page 6:
+- chemistry in CMZ -> chemistry in the CMZ
+- The activities of the -> The activity of the
+- Eddington luminosity -> the Eddington luminosity
+- short duration -> the short duration
+- regarding the line of side speed, I think it is good to explicitly add a clarifying statement that these projected velocities may appear to be larger than the speed of light, but are consistent with special relativity, as the actual physical motion is less than the speed of light.
+- define ISM
+- Ao et al. (2013), PDR heating -> Following Ao et al. (2013), PDR heating
+- is not likely important -> is likelky not important
+- because heating does not -> because the heating does not
+- originate in a variety -> originate from a variety
+- Although Rodriguez-Fernandez -> On the other hand, Rodriguez-Fernandez
+- deeper into CMZ gas that a PDR -> deeper into the CMZ gas than a PDR
+- "long-lasting Z-ray emission": how long? please clarify
+- source for CMZ gas is cosmic rays -> source for the CMZ gas are cosmic rays
+
+page 7:
+- entirely on gas -> entirely on the gas
+- assume the molecular gas -> assume that the molecular gas
+- dynamic calculation -> dynamical calculation
+- in the MCs is an projected average -> in the MCs is a projected average
+- With the torus of MCs changes -> When the torus of MCs changes
+- the dynamic evolution -> the dynamical evolution
+
+page 8:
+- with FLASH code -> with the FLASH code
+- molecular gas in CMZ -> molecular gas in the CMZ
+- different characteristics than the one in -> different characteristics than the ones in
+- influence the physic -> influence the physics
+- strong shock from SNR -> strong shock from SNRs
+
+page 9:
+- background UV, X-ray, and CR -> background UV, X-ray and CR radiation
+- All the possible mechanisms will associate with ... combining them all -> We will also pursue at least one simulations that includes all these mechanisms.
+- We will use FLASH code -> We will use the FLASH code
+- to be equilibrium -> to be in equilibrium
+- In the CMZ dynamic simulations -> In the dynamical CMZ simulations
+- same with the quiescent -> same as for the quiescent
+
+page 10:
+- simplest and valid model -> simple and valid model
+- change the spherical -> changing the spherical
+- consider the radiative -> considering the radiatiave
+- by the theory group in our department -> by the theory group in the astronomy department at Universidad de Concepci\'on
+- Geryon210 -> Geryon2
+- Prof. Dominik Schleicher as an expert on star formation and GC -> Prof. Dominik Schleicher as an expert for gas-dynamical simulations
+- Some of the parts at the bottom here, especially the observational work on the dust emission image of the CMZ, should come earlier, as indicated above.
+#+END_QUOTE
+- 0924
+#+BEGIN_QUOTE
+page 1:
+- in active galactic nucleus -> in active galactic nuclei
+- that molecular gas -> that the molecular gas
+
+page 2:
+- "Shock chemistry in SNRs": the "y" is not displayed correctly. Please check and fix. This happens more often with the "y" also in other places, I will mention it below.
+
+page 3:
+- A non-equilibrium chemical evolution -> The non-equilibrium chemical evolution
+- see a summary -> a summary
+- status in the CMZ -> status of the CMZ
+- We can add -> We will add
+- Galactic central SNRs -> Galactic Center SNRs
+
+page 4:
+- fix "y" in "Dynamics of the CMZ"
+- could be important on the observations -> could be important to interprete the observations
+- source for dynamical -> source for the dynamical
+
+page 5:
+- structures of CMZ -> structures of the CMZ
+- differential dynamical structures -> different dynamical structures
+- scales was examined -> scales were examined
+- possibly dissipation mechanisms -> possible dissipation mechanisms
+- Typical FWHM -> Typical values of the FWHM
+- physical properties of CMZ -> physical properties of the CMZ
+- Similarly, a chemical network would provides -> A chemical network will provide
+- IMPORTANT: We have to add more information on the chemical network. You could say: For this purpose, we will employ the chemical network by Bovino et al. (2016), which includes the hydrogen and helium chemistry already extended to high temperatures, as well as the main heavy elements (carbon, oxygen, nitrogen) in their atomic and ionized forms. The X-ray chemistry will be included into the network following Meijerink & Spaans (2005), and a PhD student will work on future extensions of the network with further improvements.
+- fix "y" in "X-ray flares on the molecular clouds"
+- due to interaction of molecular gas -> due to the interaction of the molecular gas
+
+page 6:
+- define "LOS speed"
+- not to be responsible -> not responsible
+- flares. Becaus X-ray -> flares, because X-rays
+- RT code will be adopted -> RT code will be adopted using the TreeCol algorithm included in FLASH from version 4.3
+
+page 7:
+- to the time lasting -> to the time duration
+- around the Sgr A* -> around Sgr A*
+- in the 3D space -> in 3D space
+- so that equal-time-delay -> so that the equal-time-delay
+
+page 8:
+- that calculate -> that calculates
+- fix "y" in "Hypothesis"
+- dynamics of CMZ -> dynamics of the CMZ
+- from the GC flares separately -> from the GC flares will be investigated separately
+- mechanisms in CMZ -> mechanisms in the CMZ
+- shock chemistr -> shock chemistry
+- fix y in "chemistry evolution due to the dynamics of CMZ gas" (two times)
+- CMZ gas are -> CMZ gas is
+- controled -> controlled
+- affects the chemistry -> affect the chemistry
+- fix "y" in "chemistry of MCs"
+
+page 9:
+- By tuning the fraction -> By adjusting the fraction
+- fix "y" in "Methodology"
+- NEI calculation unit we use -> NEI calculation unit is based on
+- ALSO HERE, we should comment on the network: "As stated above, the chemical network will be based on Bovino et al. (2016), including X-ray primary and secondary ionization as well as heating following Meijerink & Spaans (2005). The network will be further extended by a PhD student during the execution of the project."
+- fix name of "Joaquin Zamponi". The "in" is currently replaced with a box, similar to the "y" in some places.
+- has the experience -> has experience
+- gas is in an elliptical -> gas in on an elliptical
+- as different models -> as indicated by different models
+- and its penetration in -> and their penetration into
+- propagate -> propagates
+- influence of X-ray flare -> influence of X-ray flares
+- By assuming -> Assuming
+- Some basic physics setups -> The setup
+- can be improved -> will be improved
+- radiative transfer -> radiative transfer using TreeCol
+
+page 10:
+- with FLASH code -> with the FLASH code
+- observations on -> observations of
+-will potentially changed -> will potentially change
+- chemistry equilibrium -> chemical equilibrium
+- available in current -> available in the current
+- from central SMBH -> from the central SMBH
+- of the dynamics, photon emission -> of the dynamics and the photon emission
+- from GC region -> from the GC region
+- impact on chemistry, The mechanisms -> impact on the chemistry, the mechanisms
+- By tuning the -> By adjusting the
+- we have collaborations -> we will have collaborations
+#+END_QUOTE
+- Research trajectory file
+- some modifications from Stefano
+***** DONE Stefano's email
+     CLOSED: [2019-09-24 Tue 07:14]
+     :LOGBOOK:
+     - State "DONE"       from ""           [2019-09-24 Tue 07:14]
+     :END:
+- 0924 in pdf
+
+**** DONE Email from Daniel
+     CLOSED: [2019-09-22 Sun 23:12]
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2019-09-22 Sun 23:12]
+     CLOCK: [2019-09-22 Sun 22:18]--[2019-09-22 Sun 23:12] =>  0:54
+     :END:
+
+**** DONE Try to read before ddl
+     CLOSED: [2019-09-25 Wed 21:03]
+     :LOGBOOK:
+     - State "DONE"       from ""           [2019-09-25 Wed 21:03]
+     CLOCK: [2019-09-24 Tue 22:17]--[2019-09-25 Wed 21:03] => 22:46
+     :END:
+
+*** Read reabble and papers
+    :LOGBOOK:
+    CLOCK: [2019-10-11 Fri 12:17]--[2019-10-31 Thu 12:20] => 480:03
+    CLOCK: [2019-10-08 Tue 12:08]--[2019-10-08 Tue 21:55] =>  9:47
+    CLOCK: [2019-09-30 Mon 12:01]--[2019-09-30 Mon 14:44] =>  2:43
+    :END:
+**** Write a description paper to publish on the public wechat account
+     :LOGBOOK:
+     CLOCK: [2019-09-30 Mon 18:02]--[2019-09-30 Mon 23:08] =>  5:06
+     :END:
+
+** CANCELLED Setup python env on masters
+   CLOSED: [2020-10-30 Fri 19:34]
+   :LOGBOOK:
+   - State "CANCELLED"  from "DONE"       [2020-10-30 Fri 19:34] \\
+     not use it much
+   - State "DONE"       from ""           [2020-10-30 Fri 19:34]
+   :END:
+   :PROPERTIES:
+   :ARCHIVE_TIME: 2020-10-30 Fri 19:35
+   :ARCHIVE_FILE: ~/Documents/OneDrive/org/Work.org
+   :ARCHIVE_OLPATH: Work in Chile
+   :ARCHIVE_CATEGORY: Work
+   :ARCHIVE_TODO: CANCELLED
+   :ARCHIVE_ITAGS: Chilean Work Code Concepción
+   :END:
+
+** DONE Run KROME somewhere
+   CLOSED: [2019-11-01 Fri 16:44]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-11-01 Fri 16:44]
+   CLOCK: [2019-11-01 Fri 16:10]--[2019-11-01 Fri 16:44] =>  0:34
+   CLOCK: [2019-11-01 Fri 15:35]--[2019-11-01 Fri 15:52] =>  0:17
+   :END:
+   :PROPERTIES:
+   :ARCHIVE_TIME: 2020-10-30 Fri 19:35
+   :ARCHIVE_FILE: ~/Documents/OneDrive/org/Work.org
+   :ARCHIVE_OLPATH: Work in Chile
+   :ARCHIVE_CATEGORY: Work
+   :ARCHIVE_TODO: DONE
+   :ARCHIVE_ITAGS: Chilean Work Code Concepción
+   :END:
+   On master: yes
+
+** DONE Check solvers and prepare for talking with Stefano
+   CLOSED: [2019-11-04 Mon 16:41] DEADLINE: <2019-11-04 Mon>
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-11-04 Mon 16:41]
+   CLOCK: [2019-11-04 Mon 16:40]--[2019-11-04 Mon 16:41] =>  0:01
+   CLOCK: [2019-11-04 Mon 09:15]--[2019-11-04 Mon 11:18] =>  2:03
+   CLOCK: [2019-11-02 Sat 22:09]--[2019-11-03 Sun 16:22] => 18:13
+   CLOCK: [2019-11-02 Sat 19:43]--[2019-11-02 Sat 22:09] =>  2:26
+   :END:
+   :PROPERTIES:
+   :ARCHIVE_TIME: 2020-10-30 Fri 19:35
+   :ARCHIVE_FILE: ~/Documents/OneDrive/org/Work.org
+   :ARCHIVE_OLPATH: Work in Chile
+   :ARCHIVE_CATEGORY: Work
+   :ARCHIVE_TODO: DONE
+   :ARCHIVE_ITAGS: Chilean Work Code Concepción
+   :END:
+*** What are the codes dvode, nleq_all, opkda1, opkda2, opkdmain?
+    :LOGBOOK:
+    CLOCK: [2019-11-03 Sun 16:22]--[2019-11-04 Mon 09:15] => 16:53
+    :END:
+*** The iteration of ODE in Krome not sufficient for the thermal evolution
+    - iteration makes sure the ODE calculation of chemical abundances and cooling right
+    - But it returns to the hydro code only a final energy change
+    - During a dydro time step the cooling could change the distribution of temperature or pressure, which should be considered in hydro evolution
+
+** DONE Make clear about vectorization
+   CLOSED: [2019-12-11 Wed 11:52]
+   :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2019-12-11 Wed 11:52]
+   - State "WAITING"    from "TODO"       [2019-11-13 Wed 16:24] \\
+     After sparsity
+   CLOCK: [2019-11-04 Mon 16:42]--[2019-11-04 Mon 17:30] =>  0:48
+   :END:
+   :PROPERTIES:
+   :ARCHIVE_TIME: 2020-10-30 Fri 19:35
+   :ARCHIVE_FILE: ~/Documents/OneDrive/org/Work.org
+   :ARCHIVE_OLPATH: Work in Chile
+   :ARCHIVE_CATEGORY: Work
+   :ARCHIVE_TODO: DONE
+   :ARCHIVE_ITAGS: Chilean Work Code Concepción
+   :END:
+*** Thread level parallel
+*** Data level parallel / SIMB
+**** The way to vectorize
+**** The way to check vectorization
+*** DONE Talk to Tommaso
+    CLOSED: [2019-11-13 Wed 16:23]
+    :LOGBOOK:
+    - State "DONE"       from ""           [2019-11-13 Wed 16:23]
+    :END:
+Vectorization is mainly about the memory indexing
+- software advisor
+*** DONE Use intel advisor roof to show the memory things of solver
+    CLOSED: [2019-11-13 Wed 16:24]
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2019-11-13 Wed 16:24]
+    :END:
+
+** DONE Figure out how to make use of sparsity
+   CLOSED: [2020-10-30 Fri 19:36]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-10-30 Fri 19:36]
+   CLOCK: [2019-11-18 Mon 17:07]--[2019-12-02 Mon 16:33] => 335:26
+   :END:
+   :PROPERTIES:
+   :ARCHIVE_TIME: 2020-10-30 Fri 19:36
+   :ARCHIVE_FILE: ~/Documents/OneDrive/org/Work.org
+   :ARCHIVE_OLPATH: Work in Chile
+   :ARCHIVE_CATEGORY: Work
+   :ARCHIVE_TODO: DONE
+   :ARCHIVE_ITAGS: Chilean Work Code Concepción
+   :END:
+   - On Jacobian
+*** How to use Jacobian Matix in solving odes
+*** DONE Use the KLU in cvode
+    CLOSED: [2019-12-19 Thu 15:13]
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2019-12-19 Thu 15:13]
+    :END:
+**** TODO Figure out what's the error and try to fix it
+     :LOGBOOK:
+     CLOCK: [2019-12-11 Wed 11:53]--[2019-12-11 Wed 11:59] =>  0:06
+     :END:
+
+** DONE Test CVODE without sparsity for something new (shock with temperature changed)
+   CLOSED: [2020-10-30 Fri 19:36]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2020-10-30 Fri 19:36]
+   :END:
+   :PROPERTIES:
+   :ARCHIVE_TIME: 2020-10-30 Fri 19:36
+   :ARCHIVE_FILE: ~/Documents/OneDrive/org/Work.org
+   :ARCHIVE_OLPATH: Work in Chile
+   :ARCHIVE_CATEGORY: Work
+   :ARCHIVE_TODO: DONE
+   :ARCHIVE_ITAGS: Chilean Work Code Concepción
+   :END:
+   - CVODE cannot run with much accuracy, atol=1.d-16
+   - CVODE is slower within two times
+
+** DONE Review Jacobian matrix
+   CLOSED: [2019-11-15 Fri 14:09]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-11-15 Fri 14:09]
+   :END:
+   :PROPERTIES:
+   :ARCHIVE_TIME: 2020-10-30 Fri 19:48
+   :ARCHIVE_FILE: ~/Documents/OneDrive/org/Work.org
+   :ARCHIVE_OLPATH: Work in Chile
+   :ARCHIVE_CATEGORY: Work
+   :ARCHIVE_TODO: DONE
+   :ARCHIVE_ITAGS: Chilean Work Code Concepción
+   :END:
+
+** DONE Send email to Randall and ask Adam for generation of eigenvalue and eigenvector matrices.
+   CLOSED: [2019-11-13 Wed 16:22]
+   :LOGBOOK:
+   - State "DONE"       from ""           [2019-11-13 Wed 16:22]
+   :END:
+   :PROPERTIES:
+   :ARCHIVE_TIME: 2020-10-30 Fri 19:48
+   :ARCHIVE_FILE: ~/Documents/OneDrive/org/Work.org
+   :ARCHIVE_OLPATH: Work in Chile
+   :ARCHIVE_CATEGORY: Work
+   :ARCHIVE_TODO: DONE
+   :ARCHIVE_ITAGS: Chilean Work Code Concepción
+   :END:
+   in pyatomdb: util
+
+** DONE Reach Dong Zhang for turbulence
+   CLOSED: [2019-11-13 Wed 16:22]
+   :LOGBOOK:
+   - State "DONE"       from ""           [2019-11-13 Wed 16:22]
+   :END:
+   :PROPERTIES:
+   :ARCHIVE_TIME: 2020-10-30 Fri 19:48
+   :ARCHIVE_FILE: ~/Documents/OneDrive/org/Work.org
+   :ARCHIVE_OLPATH: Work in Chile
+   :ARCHIVE_CATEGORY: Work
+   :ARCHIVE_TODO: DONE
+   :ARCHIVE_ITAGS: Chilean Work Code Concepción
+   :END:
+   - No reply
+     in Athena
+
+** TODO Run shock tube with Krome
+   :LOGBOOK:
+   - State "TODO"       from "DONE"       [2019-12-11 Wed 11:52]
+   - State "DONE"       from "TODO"       [2019-12-11 Wed 11:52]
+   :END:
+   :PROPERTIES:
+   :ARCHIVE_TIME: 2020-10-30 Fri 19:48
+   :ARCHIVE_FILE: ~/Documents/OneDrive/org/Work.org
+   :ARCHIVE_OLPATH: Work in Chile
+   :ARCHIVE_CATEGORY: Work
+   :ARCHIVE_TODO: TODO
+   :ARCHIVE_ITAGS: Chilean Work Code Concepción
+   :END:
+
+** CANCELLED Compare all the ODE methods
+   CLOSED: [2019-12-11 Wed 11:51]
+   :LOGBOOK:
+   - State "CANCELLED"  from "TODO"       [2019-12-11 Wed 11:51] \\
+     No time to do this
+   :END:
+   :PROPERTIES:
+   :ARCHIVE_TIME: 2020-10-30 Fri 19:49
+   :ARCHIVE_FILE: ~/Documents/OneDrive/org/Work.org
+   :ARCHIVE_OLPATH: Work in Chile
+   :ARCHIVE_CATEGORY: Work
+   :ARCHIVE_TODO: CANCELLED
+   :ARCHIVE_ITAGS: Chilean Work Code Concepción
+   :END:
+
+** DONE Apply for YAGN 2020
+   Failed
+   CLOSED: [2019-12-11 Wed 11:46]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-12-11 Wed 11:46]
+   :END:
+   :PROPERTIES:
+   :ARCHIVE_TIME: 2020-10-30 Fri 19:49
+   :ARCHIVE_FILE: ~/Documents/OneDrive/org/Work.org
+   :ARCHIVE_OLPATH: Work in Chile
+   :ARCHIVE_CATEGORY: Work
+   :ARCHIVE_TODO: DONE
+   :ARCHIVE_ITAGS: Chilean Work Code Concepción
+   :END:

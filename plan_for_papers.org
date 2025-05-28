@@ -1,0 +1,17 @@
+* Chemistry in GC
+** CO; HCO+; HCN; HNC; H2; H-related dense
+** must finish the paper
+** Kida, astrochemistry formula:
+#+OPTIONS: tex:t
+1. CR ionization
+k = $\alpha \zeta$ $\yota$
+2. Photo-dissociation (Draine)
+k = $\alpha e^{-\gamma A_{v}}$
+3. Modified Arrhenius
+k(T) = $\alpha(T/300)^{\beta}e^{-\gamma/T}$
+4. ionpol1
+k(T) = $\alpha \beta(0.62+0.4767\gamma(300/T)^{0.5})$
+5. ionpol2
+k(T) = $\alpha \beta(1+0.0967\gamma(300/T)^{0.5}+\frac{\gamma^2}{10.526}\frac{300}{T})$
+6. 3-body
+* RS

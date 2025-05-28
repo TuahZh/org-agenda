@@ -1,0 +1,22 @@
+* Keep planning please
+** RS paper II (respond Daniel)
+** DONE read and prepare paper for GM
+   CLOSED: [2020-11-06 Fri 15:49] DEADLINE: <2020-11-02 Mon>
+   :LOGBOOK:
+   - State "DONE"       from              [2020-11-06 Fri 15:49]
+   :END:
+** Time arrange:
+*** Continue work on orgs <2020-10-30 Fri 20:20>
+*** Dance or ring fit <2020-10-30 Fri 21:00>
+*** Try to finish it, if not, continue <2020-10-30 Fri 23:00>
+*** Redo the plan <2020-10-31 Sat 00:00>
+**** I really want to play games.
+*** Read paper for GM <2020-11-02 Mon 01:00>
+    I cannot wake up early enough
+So stay up
+*** Test the solver <2020-11-06 Fri 14:00>
+*** TODO simulation with smoothed clouds <2020-11-06 Fri 16:00>
+*** TODO Try to get a report of chemical evolution <2020-11-06 Fri 18:00>
+**** learn more about chemistry <2020-11-14 Sat 16:00>
+**** perform simulation with a cloud wall <2020-11-14 Sat 17:00>
+*** Work on RS paper II <2020-11-14 Sat 19:00>

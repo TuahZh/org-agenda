@@ -1,0 +1,52 @@
+* Espanol
+| el | los  |
+| la | last |
+
+| un  | unos |
+| una | unas |
+
+
+* plabras
+
+abrir
+
+* ar, er, ir
+
+** -ar
+| yo                    | -o    |
+| tu                    | -as   |
+| el, ella, usted       | -a    |
+| nosotros, nosotras    | -amos |
+| vosotros, vosotras    | -ais  |
+| ellos, ellas, ustedes | -an   |
+
+** -er
+| yo                    | -o    |
+| tu                    | -es   |
+| el, ella, usted       | -e    |
+| nosotros, nosotras    | -emos |
+| vosotros, vosotras    | -eis  |
+| ellos, ellas, ustedes | -en   |
+
+** -ir
+   | yo                    | -o    |
+   | tu                    | -es   |
+   | el, ella, usted       | -e    |
+   | nosotros, nosotras    | -imos |
+   | vosotros, vosotras    | -is   |
+   | ellos, ellas, ustedes | -en   |
+
+* hacer
+| yo                    | hago    |
+| tu                    | haces   |
+| el, ella, usted       | hace    |
+| nosotros, nosotras    | hacemos |
+| vosotros, vosotras    | haceis  |
+| ellos, ellas, ustedes | hacen   |
+* tener
+| yo                    | tengo   |
+| tu                    | tienes  |
+| el, ella,usted        | tiene   |
+| nosotros, nosotras    | tenemos |
+| vosotros, vosotras    | teneis  |
+| ellos, ellas, ustedes | tienen  |
